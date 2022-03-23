@@ -1,0 +1,7 @@
+C:\Users\JuanPedroVicente\Desktop\consola\wordpdf\bin\Debug\wordpdf.exe.config
+C:\Users\JuanPedroVicente\Desktop\consola\wordpdf\bin\Debug\wordpdf.exe
+C:\Users\JuanPedroVicente\Desktop\consola\wordpdf\bin\Debug\wordpdf.pdb
+C:\Users\JuanPedroVicente\Desktop\consola\wordpdf\obj\Debug\wordpdf.csprojAssemblyReference.cache
+C:\Users\JuanPedroVicente\Desktop\consola\wordpdf\obj\Debug\wordpdf.csproj.CoreCompileInputs.cache
+C:\Users\JuanPedroVicente\Desktop\consola\wordpdf\obj\Debug\wordpdf.exe
+C:\Users\JuanPedroVicente\Desktop\consola\wordpdf\obj\Debug\wordpdf.pdb
