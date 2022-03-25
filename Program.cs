@@ -17,7 +17,6 @@ namespace wordpdf
             if (args.Count() != 0)
             {
                 dirInfo = new DirectoryInfo(args[0]);
-             
             }
             else
             {
@@ -25,9 +24,6 @@ namespace wordpdf
             }
             try
             {
-
-
-
                 FileInfo[] files = dirInfo.GetFiles();
                 //wordFiles.
 
