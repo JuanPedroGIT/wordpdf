@@ -49,7 +49,8 @@ namespace wordpdf
                                                                        // Close the Word document, but leave the Word application open. 
                                                                        // doc has to be cast to type _Document so that it will find the 
                                                                        // correct Close method. 
-                        object saveChanges = WdSaveOptions.wdDoNotSaveChanges; ((_Document)doc).Close(ref saveChanges);// ref oMissing, ref oMissing); 
+                        object saveChanges = WdSaveOptions.wdDoNotSaveChanges;
+                        doc.Close(ref saveChanges);// ref oMissing, ref oMissing); 
                         Console.WriteLine(file.Name.Replace(file.Extension, ".pdf"));
                         Console.WriteLine("-------------------------");
 
